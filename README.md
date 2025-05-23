@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Sindhu! <br><br>I'm a computer science student at ASU working on my accelerated master's. 
+# 💫 Hi, I'm Sindhu!
+ <br><br>I'm a computer science student at ASU working on my accelerated master's. 
 
 
 # 💻 Tech Stack:
