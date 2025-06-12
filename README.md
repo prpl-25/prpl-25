@@ -1,4 +1,4 @@
-# Hey 👋🏼 I'm Sindhu!:
+# About me ✨:
 I'm a recent Computer Science graduate from Arizona State University, now continuing my education through the 4+1 accelerated master's program. I am driven by curiosity, a love for problem-solving, and a strong commitment to growth. I've worked on projects in AI, machine learning, and software engineering. I enjoy building meaningful and impactful solutions to real-world problems and learning along the way!
 
 
